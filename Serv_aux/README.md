@@ -1,5 +1,5 @@
 # Optativas
-Primero antes que nada sera necesari
+Primero antes que nada sera necesario
 ```mermaid
 flowchart TD
     I -- No --> A2
